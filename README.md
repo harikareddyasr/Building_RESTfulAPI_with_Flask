@@ -20,12 +20,12 @@ flask_rest_api_project/
 │   ├── __init__.py
 │   ├── models.py
 │   ├── routes/
-│   │   ├── __init__.py
+│   │   ├── admin_routes.py
 │   │   ├── public_routes.py
-│   │   └── admin_routes.py
+│   │    
 │   └── utils/
-│       ├── __init__.py
-│       └── error_handlers.py
+│       ├── error_handlers.py
+│      
 │
 ├── uploads/
 ├── instance/
